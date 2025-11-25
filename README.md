@@ -1,3 +1,7 @@
+📂 IT Support & Operating Systems – GitHub README Outline
+📌 Overview
+Briefly describe what the SharePoint file contains (e.g., training notes, project documentation, assignments). Summarize the purpose of the repository: to centralize IT Support and Operating Systems resources for learning, troubleshooting, and portfolio presentation.
+
 🎯 Objectives
 State the main goals of the project or training material.
 
@@ -50,5 +54,4 @@ Builds confidence in troubleshooting and system administration.
 
 Provides clear OS fundamentals.
 
-Serves as a portfolio piece for certifications and professional roles.# Basic-Server-Set-Up
-This repository contains documentation and resources originally hosted on SharePoint, focused on IT Support and Operating Systems. It provides structured notes, tasks, and deliverables for system administration, troubleshooting, and OS fundamentals.
+Serves as a portfolio piece for certifications and professional roles.
